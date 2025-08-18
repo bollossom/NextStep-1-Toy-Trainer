@@ -17,6 +17,13 @@
 
 ## 🔥 News
 
+- Aug 18, 2025: 👋 We deploy NextStep-1-Large-Edit on [HuggingFace Spaces](https://huggingface.co/spaces/stepfun-ai/NextStep-1-Large-Edit). Feel free to try it out!
+- Aug 18, 2025: 👋 We open the [WeChat Group](./assets/wechat.png). Feel free to join us!
+
+<div align="center">
+<img width="360" alt="wechat" src="./assets/wechat.png">
+</div>
+
 - Aug 14, 2025: 👋 We release the inference code and [huggingface model weights](https://huggingface.co/collections/stepfun-ai/nextstep-1-689d80238a01322b93b8a3dc) of NextStep-1-Large-Pretrain, NextStep-1-Large and NextStep-1-Large-Edit
 - Aug 14, 2025: 👋 We have made our [technical report](https://arxiv.org/abs/2508.10711) available as open source.
 
